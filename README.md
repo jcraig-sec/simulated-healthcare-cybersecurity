@@ -12,7 +12,7 @@ Designed a three-zone micro-segmentation architecture separating clinical system
 
 **Topics:** Zero Trust, network segmentation, Azure NSGs, Azure ASGs, Azure Firewall, Microsoft Defender for IoT
 
-### Identity Threat Detection and Incident Response Playbook
+### [Identity Threat Detection and Incident Response Playbook](identity-threat-response-playbook/)
 
 Developed detection conditions and a NIST-aligned response process for unauthorized device access, suspicious administrative traffic, and privileged-account compromise across simulated clinical 5G trust boundaries.
 
