@@ -6,7 +6,7 @@ This repository contains cybersecurity case studies developed for simulated heal
 
 ## Case Studies
 
-### Zero Trust Network Segmentation Design
+### [Zero Trust Network Segmentation Design](zero-trust-network-design/)
 
 Designed a three-zone micro-segmentation architecture separating clinical systems, Internet of Medical Things devices, and facilities/operational technology. The design uses Azure security controls to restrict unnecessary communication and reduce lateral movement.
 
