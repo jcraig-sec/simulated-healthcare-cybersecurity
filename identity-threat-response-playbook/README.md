@@ -1,4 +1,4 @@
-# Identity Threat Detection and Incident Response Playbook
+### [Identity Threat Detection and Incident Response Playbook](identity-threat-response-playbook/)
 
 ## Project Overview
 
